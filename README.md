@@ -52,3 +52,7 @@ If the player collides with the track boundaries, the car is smoothly pushed bac
 ## Objective
 
 Complete all 3 laps in the shortest time possible while staying on track and minimizing collisions.
+
+## Illustration
+<img width="1058" height="538" alt="image" src="https://github.com/user-attachments/assets/798182d7-3ed3-47b3-a3e9-c9dbc11caa8b" />
+
